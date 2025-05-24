@@ -1,0 +1,9 @@
+! Title: Annoyances
+! Last modified: %timestamp%
+! Expires: 7 days
+! Description: Filters optimized for uBlock Origin
+! License: https://github.com/picodexter/browser-filter-lists/blob/main/LICENSE
+! Homepage: https://github.com/picodexter/browser-filter-lists
+
+! 2025-05-24 Google - sign-in prompt (SSO)
+||accounts.google.com/gsi/*$xhr,script,3p
